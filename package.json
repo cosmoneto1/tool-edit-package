@@ -1,0 +1,21 @@
+{
+  "name": "tool-edit-package",
+  "version": "1.0.0",
+  "description": "Cli tool para fazer o readme do project apartir do package.json",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "nodejs",
+    "cli",
+    "tool",
+    "edit",
+    "package"
+  ],
+  "author": "Cosmo Neto",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^20.1.1"
+  }
+}
